@@ -1,6 +1,6 @@
 # Hi there, I'm Ashmitha 👋
 
-I’m a backend developer who loves building data systems. I focus on writing core logic from scratch, handling concurrency, and designing clean data pipelines.
+I’m a backend developer who loves building data systems. 
 
 ---
 
