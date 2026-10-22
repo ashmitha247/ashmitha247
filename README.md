@@ -1,6 +1,6 @@
 # Hi there, I'm Ashmitha 👋
 
-I’m a backend dev and I also enjoy building stuff and breaking and fixing it
+I’m a backend dev and I enjoy building stuff, breaking and fixing it
 
 ---
 
