@@ -1,6 +1,6 @@
 # Hi there, I'm Ashmitha 👋
 
-I’m a backend developer who loves building data systems. 
+I’m a backend dev and I also enjoy building stuff and breaking and fixing it
 
 ---
 
